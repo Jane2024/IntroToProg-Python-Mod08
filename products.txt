@@ -1,0 +1,6 @@
+Tea, 1.99
+Coffee, 2.99
+Milk, 5.99
+Sugar, 3.99
+Chocolate, 2.55
+Cinnamon, 2.3
